@@ -1,0 +1,202 @@
+html, body{
+  font-size: 17px;
+  background: rgb(255, 255, 255);
+}
+.navbar-custom{
+  padding: 10px 0px;
+  background: rgb(47, 47, 47);
+  color: rgb(255, 255, 255);
+  margin: 0px;
+  font-size: 14px;
+}
+
+.header{
+  background: rgb(255, 237, 0);
+}
+
+.btimh{
+  background-image: url('../media/header-bg.png');
+}
+.shadow1{
+  -moz-box-shadow: 0 0 5px #888;
+  -webkit-box-shadow: 0 0 5px#888;
+  box-shadow: 0 0 5px #888;
+}
+
+.main{
+  /*background: rgb(230, 230, 230);*/
+  padding: 20px 0px;
+}
+
+.footer{
+  margin-top: 30px;
+  background: rgb(236, 236, 236);
+  padding: 30px 0px;
+  color: rgb(47, 47, 47);
+}
+
+.slide-title{
+  padding: 10px 0px;
+}
+
+.slide-title a{
+  text-decoration: none;
+  color: rgb(56, 56, 56);
+}
+
+.main-menu{
+  background-color: rgb(255, 115, 0);
+
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+  font-family: 'Kanit', sans-serif;
+    color: #fff;
+    font-weight: 300;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: #fff;
+    background-color: rgb(255, 153, 0);
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: transparent;
+}
+
+.dropdown-menu>li>a, .dropdown-menu>li>a {
+    color: #262626;
+    text-decoration: none;
+    background-color: #f5f5f5;
+    font-family: 'Kanit', sans-serif;
+}
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+    color: #262626;
+    text-decoration: none;
+    background-color: #e7e4e4;
+    font-family: 'Kanit', sans-serif;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: rgb(255, 161, 0);
+}
+
+.btn-custom-menu{
+  padding: 10px 20px;
+  font-family: 'Kanit', sans-serif;
+  color: rgb(255, 255, 255);
+  border-radius: 0px;
+  font-size: 1em;
+  font-weight: 300;
+}
+
+.btn-custom-menu:hover{
+  background: rgb(255, 207, 0);
+  font-family: 'Kanit', sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.footer-below{
+  background: rgb(57, 57, 57);
+  padding: 10px 0px;
+  color: rgb(255, 255, 255);
+  font-size: 14px;
+}
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.ann-content{
+  padding: 15px 0px;
+  font-size: 14px;
+}
+
+.other-ann-content{
+  padding: 0px 0px;
+  font-size: 14px;
+}
+
+.other-knowledge-item{
+  margin-bottom: 10px;
+  padding: 0px 0px;
+  font-size: 14px;
+}
+
+.other-knowledge-item img{
+  padding-top: 20px;
+}
+
+.other-ann-knowledge{
+  padding: 0px 0px;
+  font-size: 14px;
+}
+
+.other-ann-knowledge h4{
+  padding: 0px;
+  margin: 0px;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+.img-ann{
+  border: solid;
+  border-width: 6px;
+  border-color: rgb(223, 223, 223);
+}
+
+/*Button*/
+.readmore{
+  background: rgb(255, 138, 0);
+  color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  margin-top: 120px;
+  font-size: 0.8em;
+}
+
+.readmore:hover{
+  background: rgb(255, 115, 0);
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+
+/*------------------------- HR -----------------------------*/
+hr.style11 {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
+
+hr.style4 {
+	border-top: 1px dotted #8c8b8b;
+}
+
+/*------------------------Font---------------------------*/
+h1,h2,h3,h4{
+  font-family: 'Kanit', sans-serif;
+}
+
+.thfont{
+  font-family: 'Kanit', sans-serif;
+}
+
+.font-400{
+  font-weight: 400;
+}
+
+.font-500{
+  font-weight: 500;
+}
+
+.font-300{
+  font-weight: 300;
+}
